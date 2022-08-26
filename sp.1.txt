@@ -1,2 +1,1 @@
-git addaddedfile
-git commit -m "added file"
+v.3
