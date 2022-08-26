@@ -1,1 +1,2 @@
-git add
+git addaddedfile
+git commit -m "added file"
